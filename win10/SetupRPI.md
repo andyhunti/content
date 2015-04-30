@@ -52,7 +52,7 @@ permalink: /win10/SetupRPI.htm
     <p>Follow these instructions to configure your SD card:</p>
     <ol class="word-wrap">
         <li>NOTE: you will need to follow these instructions on a physical Windows machine (and not a VM) because you need access to the SD card reader.</li>
-        <li>Make a local copy of the flash.ffu contained in Windows_IoT_Core_RPI2_BUILD.zip found <a href="{{site.downloadurl}}" target="_blank">here</a></li>
+        <li>Make a local copy of the flash.ffu contained in Windows_IoT_Core_RPI2_BUILD.zip found <a href="{{site.downloadurl}}" target="_blank">here</a>. Please note that you need to be registered with the connect program to be able to download the file. If you are not registered already with the the Windows Developer Program for IoT on connect, click <a href="https://connect.microsoft.com/windowsembeddediot/SelfNomination.aspx?ProgramID=8558">here</a> to register</li>
         <li>Insert an SD card into your SD card reader.</li>
         <li>Open an admininistrator command prompt and navigate to the folder containing your local flash.ffu.</li>
         <li>
